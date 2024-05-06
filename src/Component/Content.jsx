@@ -27,7 +27,7 @@ const Content = () => {
                             <p>forget password?</p>
                         </div>
                         <div className={style.button}>
-                            <button> <p>Sign in</p> </button>
+                            <button> Sign in </button>
                         </div>
                     </form>
 
@@ -39,7 +39,7 @@ const Content = () => {
                 </div>
 
                 <div className={style.pict}>
-                    <img src={picture} alt="" />
+                    <img src={picture} alt="loginpicture" />
                 </div>
             </div>
 
@@ -50,15 +50,15 @@ const Content = () => {
                 <div className={style.wp}>
 
                     <div className={style.image}>
-                        <img src={google} alt="" />
-                        <img src={facebook} alt="" />
-                        <img src={apple} alt="" />
+                        <img src={google} alt="goodleicon" />
+                        <img src={facebook} alt="facebookicon" />
+                        <img src={apple} alt="appleicon" />
                     </div>
                 </div>
 
                 <div className={style.logo}>
 
-                    <img src={logo} alt="" />
+                    <img src={logo} alt="logo" />
                 </div>
             </div>
         </div >
