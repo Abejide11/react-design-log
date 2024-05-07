@@ -1,0 +1,100 @@
+.con{
+    display: flex;
+
+}
+.container{
+    display: flex;
+    gap: 400px;
+    
+    margin-left: 50px;
+}
+.welcome{
+    font-weight: 600;
+    
+}
+
+.p{
+    display: flex;
+    gap: 50px;
+}
+.p img{
+    width:40px;
+    height: 50px;
+    margin-top: 10px;
+}
+.con{
+    margin-left: 30px;
+
+}
+    
+
+.log{
+flex-direction: column;
+display: flex;
+padding: 1em 1em;
+}
+.log input{
+    border-radius: 30px;
+    padding: 1em 1em;
+    width: 400px;
+}
+.login{
+    display: flex;
+    margin-left: 25px;
+gap: 30px;
+}
+
+.button button{
+    width: 430px;
+    margin-left: 20px;
+    
+    padding: 0em 0em 0.1em;
+    border-radius: 30px;
+    background-color: blueviolet;
+
+}
+.pict{
+    margin-left: 200px;
+    
+
+    
+}
+.pict img{
+ width: 70vh;
+}
+.wp{
+    margin-left:100px;
+    
+    
+    
+}
+.wpl{
+    display: flex;
+    gap: 20px;
+    gap: 600px; 
+
+} 
+.image img{
+    border: solid 2px  rgb(127, 123, 145);
+    width: 50px;
+    height: 30px;
+}
+.image{
+    margin-left: 30px;
+gap: 30px;
+    display: flex;
+ 
+}
+
+.form .w{
+    display: flex;
+   justify-content: center;
+   align-items: center;
+   margin: 1.2em 0 1em;
+   gap: 3px;
+}
+.w div{
+    width: 30%;
+    height: 0;
+    border: 1px solid rgb(235, 229, 229);
+}
